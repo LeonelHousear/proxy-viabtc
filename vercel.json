@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "routes": [
+    { "src": "/api/hashrate", "dest": "/api/hashrate.js" }
+  ]
+}
